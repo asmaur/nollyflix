@@ -44,7 +44,7 @@ header nav a:hover{
 .filme-principal{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5) 100%), url('../img/capa-house.jpg');
-    height: 400px;
+    height: 500px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -59,7 +59,7 @@ header nav a:hover{
 }
 .filme-principal .descricao{
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .titulo{
     font-size: 40px;
@@ -91,7 +91,9 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
-
+.carousel-filmes{
+    margin-top: 10px;
+}
 
 
 
